@@ -21,5 +21,5 @@ Sem papo, sem dó.
 
 1. Clone essa obra de arte:
    ```bash
-   git clone https://github.com/seu_usuario/faxinao.git
+   git clone https://github.com/Psyj1/faxinao.git
    cd faxinao
